@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
     0xFFFF5252,
     <int, Color>{
       50: Color(0xFFFFEBEE),
+      //test git
       100: Color(0xFFFFCDD2),
       200: Color(0xFFEF9A9A),
       300: Color(0xFFE57373),
